@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "implementation of the fizzbuzz kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "kata"
+  ],
+  "author": "alxlchnr",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "peerDependencies": {
+
+  }
+}
